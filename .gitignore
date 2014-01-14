@@ -2,6 +2,9 @@
 *.slo
 *.lo
 *.o
+/Release
+/OgreCraft/Release
+/ipch
 
 # Compiled Dynamic libraries
 *.so
